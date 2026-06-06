@@ -1,0 +1,31 @@
+terminal,classification,tier,avg_production_mbbl,latest_production_mbbl
+EGINA,Declining,1,3.333,1.467
+AKPO,Declining,2,2.165,1.341
+ODUDU (AMENAM BLEND),Declining,2,2.403,1.861
+ANTAN,Declining,3,0.377,0.227
+EBOK,Declining,3,0.32,0.223
+OKONO,Declining,3,0.312,0.209
+OKORO,Declining,3,0.249,0.114
+PENNINGTON,Declining,3,0.43,0.153
+ANYALA MADU (CJ Blend),Growing,2,1.21,1.809
+TULJA - OKWUIBOME,Growing,2,1.747,1.9
+UTAPATE,Growing,2,1.079,1.779
+AJAPA,Growing,3,0.049,0.079
+NEMBE,Growing,3,0.929,1.188
+OTAKPIPO,Growing,3,0.207,0.256
+UGO OCHA (JONES CREEK),Growing,3,0.632,1.012
+CAWTHORNE,New Entrant,3,0.629,0.929
+OYO,New Entrant,3,0.107,0.0
+AGBAMI,Recovering,1,3.108,2.013
+BONGA,Recovering,1,3.416,3.064
+BONNY,Recovering,1,5.425,8.853
+FORCADOS,Recovering,1,7.07,7.354
+QUA IBOE,Recovering,1,4.595,4.965
+BRASS,Recovering,2,1.343,1.245
+ERHA,Recovering,2,1.927,2.045
+USAN,Recovering,2,1.077,0.929
+ABO,Recovering,3,0.389,0.236
+OKWORI,Recovering,3,0.102,0.091
+SEA EAGLE (EA),Recovering,3,0.602,0.431
+ESCRAVOS,Stable,1,4.244,4.129
+YOHO,Stable,3,0.805,0.004
